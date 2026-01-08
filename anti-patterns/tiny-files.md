@@ -151,5 +151,5 @@ ORDER BY check_date DESC;
 
 ## Related
 
-- [File sizing guidance](../file-sizing/)
-- [Snowpipe cost model](../../patterns/snowpipe/README.md)
+- [File sizing guidance](../operations/file-sizing/)
+- [Snowpipe cost model](../patterns/snowpipe/README.md)

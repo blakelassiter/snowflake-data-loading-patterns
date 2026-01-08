@@ -236,5 +236,5 @@ CREATE OR REPLACE ALERT ops.alert_duplicate_rate
 
 ## Related
 
-- [Error handling recovery](../error-handling/recovery-procedures.sql)
-- [Testing patterns](../testing/)
+- [Error handling recovery](../operations/error-handling/recovery-procedures.sql)
+- [Testing patterns](../operations/testing/)

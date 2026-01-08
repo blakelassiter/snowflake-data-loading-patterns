@@ -220,6 +220,6 @@ The key is awareness, not avoidance.
 
 ## Related
 
-- [ON_ERROR options](../error-handling/on-error-options.sql)
-- [Rejected records](../error-handling/rejected-records.sql)
-- [Testing patterns](../testing/)
+- [ON_ERROR options](../operations/error-handling/on-error-options.sql)
+- [Rejected records](../operations/error-handling/rejected-records.sql)
+- [Testing patterns](../operations/testing/)

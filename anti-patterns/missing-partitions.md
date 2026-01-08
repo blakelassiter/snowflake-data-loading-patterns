@@ -188,5 +188,5 @@ ORDER BY check_date DESC;
 
 ## Related
 
-- [External table partitioning](../../patterns/external-tables/partitioning.sql)
-- [File sizing guidance](../file-sizing/)
+- [External table partitioning](../patterns/external-tables/partitioning.sql)
+- [File sizing guidance](../operations/file-sizing/)

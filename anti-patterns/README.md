@@ -65,6 +65,6 @@ HAVING COUNT(*) > 1;
 
 ## Related
 
-- [File sizing guidance](../file-sizing/)
-- [Monitoring queries](../monitoring/)
-- [Decision framework](../../decision-framework/)
+- [File sizing guidance](../operations/file-sizing/)
+- [Monitoring queries](../operations/monitoring/)
+- [Decision framework](../decision-framework/)
