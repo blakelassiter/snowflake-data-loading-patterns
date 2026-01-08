@@ -4,7 +4,7 @@ Production patterns, monitoring queries and decision frameworks for loading data
 
 > 📥 **[Download the Quick Reference Card](https://blakelassiter.gumroad.com/l/snowflake-data-loading-patterns)** - A 4-page PDF with method comparisons, syntax examples, anti-patterns and monitoring queries.
 
-This repository accompanies the article [Loading Data into Snowflake: Choosing the Right Strategy](MEDIUM_URL) which provides narrative context for these patterns. For dbt transformation optimization after data lands, see [dbt-snowflake-optimization](https://github.com/blakelassiter/dbt-snowflake-optimization).
+This repository accompanies the article [Loading Data into Snowflake: Choosing the Right Strategy](https://medium.com/@blakelassiter/loading-data-into-snowflake-choosing-the-right-strategy-af2c7803fff1) which provides narrative context for these patterns. For dbt transformation optimization after data lands, see [dbt-snowflake-optimization](https://github.com/blakelassiter/dbt-snowflake-optimization).
 
 ## Quick Start
 
@@ -225,7 +225,7 @@ Not sure which method fits your use case? The [decision framework](decision-fram
 ## Related Resources
 
 - **Quick Reference Card:** [Download from Gumroad](https://blakelassiter.gumroad.com/l/snowflake-data-loading-patterns) - 4-page PDF with syntax, anti-patterns, monitoring queries
-- **Article:** [Loading Data into Snowflake: Choosing the Right Strategy](MEDIUM_URL)
+- **Article:** [Loading Data into Snowflake: Choosing the Right Strategy](https://medium.com/@blakelassiter/loading-data-into-snowflake-choosing-the-right-strategy-af2c7803fff1)
 - **Transformation patterns:** [dbt-snowflake-optimization](https://github.com/blakelassiter/dbt-snowflake-optimization)
 - **Snowflake docs:** [Data Loading Overview](https://docs.snowflake.com/en/user-guide/data-load-overview)
 
